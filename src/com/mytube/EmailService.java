@@ -1,7 +1,8 @@
 package com.mytube;
 
+
 public interface EmailService {
-    void sendEmail(User user) ;
+  public  void sendEmail(User user) ;
 
 
 }
